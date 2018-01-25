@@ -34,7 +34,7 @@ function mainBanner() {
             },
             responsiveLevels: [2220, 1183, 975, 751],
             gridwidth: [1170, 970, 770, 580],
-            gridheight: [500, 500, 500, 500],
+            gridheight: [600, 600, 500, 500],
             shadow: 0,
             spinner: "off",
             autoHeight: "off",
